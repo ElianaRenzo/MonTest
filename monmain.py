@@ -9,3 +9,5 @@ z = Out.somme(3,4)
 print(z)
 
 print('commit depuis pycharm directement')
+
+print('Ajout dun erreur attention il va falloir reprendre l ancienne version')
