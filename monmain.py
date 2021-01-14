@@ -7,3 +7,5 @@ print(y)
 
 z = Out.somme(3,4)
 print(z)
+
+print('commit depuis pycharm directement')
